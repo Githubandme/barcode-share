@@ -1,0 +1,21 @@
+# Folders and files to ignore from git
+
+# Android build folders
+/build
+.gradle
+.idea/
+
+# Android files
+local.properties
+*.apk
+*.ap_
+*.aab
+*.keystore
+*.jks
+
+# Other
+.DS_Store
+captures/
+*.iml
+.externalNativeBuild/
+.cxx/
